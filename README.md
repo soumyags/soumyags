@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @soumyags
-- 👀 I’m an IT Professional .
-- 🌱 I’m currently learning Data Scientist.
-- 💞️ I have interest on getting actionable data insights & visualize them using various graphs.
+- 👀 I’m an Data Enthusiat & IT Professional .
+- 🌱 Data Science Certified
+- 💞️ I have interest on getting actionable data insights and present them in easy way to clients, which helps them to take proper decission in their business. 
 - 📫 How to reach me soumyashetty49@gmail.com
 
 <!---
